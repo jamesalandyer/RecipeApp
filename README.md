@@ -1,10 +1,3 @@
-//
-//  README.md
-//  Recipes
-//
-//  Created by James Dyer on 10/10/24.
-//
-
 # Steps to Run the App
 1. Open the project file in Xcode
 2. Run the app
